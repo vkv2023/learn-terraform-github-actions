@@ -1,2 +1,2 @@
 # learn-terraform-github-actions
-learn-terraform-github-actions leran Terraform and GitHUb actions
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started 
